@@ -1,0 +1,17 @@
+{
+  "model": "XGBoost",
+  "training_date": "2025-07-21 07:24:33.248118",
+  "dataset_size": 1362853,
+  "n_features": 120,
+  "training_time_minutes": 3.3,
+  "performance": {
+    "train_auc": 1.0,
+    "val_auc": 0.9972,
+    "train_acc": 0.9731,
+    "val_acc": 0.9721
+  },
+  "best_iteration": 999,
+  "device": "Apple M4 Max",
+  "status": "Successfully trained on full dataset",
+  "model_format": "native_xgboost"
+}
