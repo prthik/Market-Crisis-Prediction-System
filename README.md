@@ -1,5 +1,6 @@
 # Market Crisis Prediction System 🚨
-
+> In Development
+> >
 A sophisticated machine learning system for predicting financial market crises with 60+ years of historical data analysis. The system uses ensemble models combining XGBoost, LSTM, and Graph Neural Networks to predict market crashes, financial crises, and systemic shocks.
 
 ## Features
